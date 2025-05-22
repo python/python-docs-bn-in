@@ -1,8 +1,8 @@
-Translation of the Python Documentation — bn_in
+Translation of the Python Documentation — bn-in
 ===============================================
 
-.. image:: https://travis-ci.org/python/python-docs-bn_in.svg?branch=3.12
-  :target: https://travis-ci.org/python/python-docs-bn_in
+.. image:: https://travis-ci.org/python/python-docs-bn-in.svg?branch=3.14
+  :target: https://travis-ci.org/python/python-docs-bn-in
 
 
 Documentation Contribution Agreement
@@ -37,8 +37,9 @@ How to Contribute
 You can contribute using:
 
 - Github
-- `transifex <https://www.transifex.com/python-doc/public/>`_
-- Or just by opening `an issue on github <https://github.com/python/python-docs-bn_in/issues>`_
+- Or just by opening `an issue on github <https://github.com/python/python-docs-bn-in/issues>`_
+
+We will use Weblate in future.
 
 
 Contributing using Github
@@ -55,8 +56,8 @@ Prerequisites:
 
 Let's start:
 
-You'll need to fork the `python-docs-bn_in
-<https://github.com/python/python-docs-bn_in>`_ clicking its ``Fork``
+You'll need to fork the `python-docs-bn-in
+<https://github.com/python/python-docs-bn-in>`_ clicking its ``Fork``
 button. This creates a copy of the whole project on your github
 account: a place where you have the rights to do modifications.
 
@@ -65,17 +66,17 @@ Step by step:
 .. code-block:: bash
 
     # Git clone your github fork using ssh (replace JulienPalard):
-    git clone git@github.com:JulienPalard/python-docs-bn_in.git
+    git clone git@github.com:JulienPalard/python-docs-bn-in.git
 
     # Go to the cloned directory:
-    cd python-docs-bn_in/
+    cd python-docs-bn-in/
 
     # Add the upstream (the public repository) using HTTPS (won't ask for password):
-    git remote add upstream https://github.com/python/python-docs-bn_in.git
+    git remote add upstream https://github.com/python/python-docs-bn-in.git
 
 All the translations must be made on the latest release.
 We never translate on an oldest version, by example, the latest Python release
-is Python 3.12, we don't want to translate directly on the Python 3.5 release.
+is Python 3.14, we don't want to translate directly on the Python 3.5 release.
 If needed translations would be backported on the oldest versions by the
 `documentation team <https://www.python.org/dev/peps/pep-8015/#documentation-team>`_.
 
@@ -84,10 +85,10 @@ Now you're ready to start a work session, each time you'll start a new task, sta
 .. code-block:: bash
 
     # To work, we'll need a branch, based on an up-to-date (freshly fetched)
-    # upstream/3.12 branch, let's say we'll work on glossary so we name
+    # upstream/3.14 branch, let's say we'll work on glossary so we name
     # the branch "glossary":
     git fetch upstream
-    git checkout -b glossary upstream/3.12
+    git checkout -b glossary upstream/3.14
 
     # You can now work on the file, typically using poedit,
     poedit directory/file.po
@@ -106,7 +107,7 @@ Now you're ready to start a work session, each time you'll start a new task, sta
 
     # The previous command will print you a link to open a PR on github.
     # If you missed it, just go to
-    # https://github.com/python/python-docs-bn_in/ and a nice "Compare & pull request"
+    # https://github.com/python/python-docs-bn-in/ and a nice "Compare & pull request"
     # button should appear after a few seconds telling you can ask for a pull request.
 
     # Now someone is reviewing your modifications, and you'll want to fix their
@@ -237,14 +238,14 @@ after ensuring ``~/.local/bin/`` is in your ``PATH``.
 Maintenance
 -----------
 
-All those snippets are to run from the root of a ``python-docs-bn_in``
+All those snippets are to run from the root of a ``python-docs-bn-in``
 clone, and some expect to find an up-to-date CPython clone near to it,
 like:
 
 .. code-block:: bash
 
   ~/
-  ├── python-docs-bn_in/
+  ├── python-docs-bn-in/
   └── cpython/
 
 To clone CPython you may use:
