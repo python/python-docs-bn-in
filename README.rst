@@ -39,7 +39,8 @@ You can contribute using:
 - Github
 - Or just by opening `an issue on github <https://github.com/python/python-docs-bn-in/issues>`_
 
-We will use Weblate in future.
+We will use Weblate in future. A few translators are online at `#python-doc` channel in libera.chat IRC server.
+
 
 
 Contributing using Github
