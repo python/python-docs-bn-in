@@ -3,20 +3,19 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-22 14:20+0200\n"
-"PO-Revision-Date: 2025-05-23 11:36+0200\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-05-25 02:15-0400\n"
+"Last-Translator: Kushal Das <mail@kushaldas.in>\n"
 "Language-Team: \n"
 "Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: tools/templates/_docs_by_version.html:10
 msgid "Stable"
@@ -24,19 +23,19 @@ msgstr "স্থিতিশীল"
 
 #: tools/templates/_docs_by_version.html:11
 msgid "In development"
-msgstr ""
+msgstr "উন্নয়নাধীন"
 
 #: tools/templates/customsourcelink.html:3
 msgid "This page"
-msgstr ""
+msgstr "এই পৃষ্ঠা"
 
 #: tools/templates/customsourcelink.html:5
 msgid "Report a bug"
-msgstr ""
+msgstr "বাগ রিপোর্ট করুন"
 
 #: tools/templates/customsourcelink.html:8
 msgid "Show source"
-msgstr ""
+msgstr "সোর্স দেখান"
 
 #: tools/templates/download.html:2 tools/templates/indexsidebar.html:1
 msgid "Download"
@@ -44,143 +43,124 @@ msgstr "ডাউনলোড"
 
 #: tools/templates/download.html:30
 msgid "Download Python %(dl_version)s documentation"
-msgstr ""
+msgstr "পাইথন %(dl_version)s ডকুমেন্টেশন ডাউনলোড করুন"
 
 #: tools/templates/download.html:32
 msgid "Last updated on: %(last_updated)s."
-msgstr ""
+msgstr "সর্বশেষ আপডেট: %(last_updated)s।"
 
 #: tools/templates/download.html:34
 msgid ""
 "To download an archive containing all the documents for this version of\n"
 "Python in one of various formats, follow one of links in this table."
 msgstr ""
+"এই সংস্করণের পাইথনের সকল ডকুমেন্ট একসাথে বিভিন্ন ফরম্যাটে ডাউনলোড করতে,\n"
+"এই টেবিলের যেকোনো একটি লিঙ্ক অনুসরণ করুন।"
 
 #: tools/templates/download.html:39
 msgid "Format"
-msgstr ""
+msgstr "ফরম্যাট"
 
 #: tools/templates/download.html:40
 msgid "Packed as .zip"
-msgstr ""
+msgstr ".zip আকারে প্যাক করা"
 
 #: tools/templates/download.html:41
 msgid "Packed as .tar.bz2"
-msgstr ""
+msgstr ".tar.bz2 আকারে প্যাক করা"
 
 #: tools/templates/download.html:44
 msgid "PDF"
-msgstr ""
+msgstr "পিডিএফ"
 
 #: tools/templates/download.html:45
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.zip\">Download</a> "
-"(ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.zip\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.zip\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:46
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.tar.bz2\">Download</"
-"a> (ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.tar.bz2\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.tar.bz2\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:49
 msgid "HTML"
-msgstr ""
+msgstr "এইচটিএমএল"
 
 #: tools/templates/download.html:50
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Download</a> "
-"(ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:51
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Download</a> "
-"(ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:54
 msgid "Plain text"
-msgstr ""
+msgstr "প্লেইন টেক্সট"
 
 #: tools/templates/download.html:55
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Download</a> "
-"(ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:56
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Download</a> "
-"(ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:59
 msgid "Texinfo"
-msgstr ""
+msgstr "টেক্সইনফো"
 
 #: tools/templates/download.html:60
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Download</a> "
-"(ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:61
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Download</"
-"a> (ca. %(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:64
 msgid "EPUB"
-msgstr ""
+msgstr "ইপাব"
 
 #: tools/templates/download.html:65
-msgid ""
-"<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Download</a> (ca. %"
-"(download_size)s MiB)"
-msgstr ""
+msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Download</a> (ca. %(download_size)s MiB)"
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">ডাউনলোড করুন</a> (প্রায় %(download_size)s MiB)"
 
 #: tools/templates/download.html:70
 msgid "These archives contain all the content in the documentation."
-msgstr ""
+msgstr "এই আর্কাইভগুলোতে ডকুমেন্টেশনের সকল বিষয়বস্তু রয়েছে।"
 
 #: tools/templates/download.html:73
 msgid "Unpacking"
-msgstr ""
+msgstr "আনজিপ করা"
 
 #: tools/templates/download.html:75
 msgid ""
 "Unix users should download the .tar.bz2 archives; these are bzipped tar\n"
 "archives and can be handled in the usual way using tar and the bzip2\n"
-"program. The <a href=\"https://infozip.sourceforge.net\">Info-ZIP</a> unzip "
-"program can be\n"
-"used to handle the ZIP archives if desired. The .tar.bz2 archives provide "
-"the\n"
+"program. The <a href=\"https://infozip.sourceforge.net\">Info-ZIP</a> unzip program can be\n"
+"used to handle the ZIP archives if desired. The .tar.bz2 archives provide the\n"
 "best compression and fastest download times."
-msgstr ""
+msgstr "ইউনিক্স ব্যবহারকারীদের .tar.bz2 আর্কাইভ ডাউনলোড করা উচিত; এগুলো bzip2 দ্বারা কম্প্রেস করা টার ফাইল এবং সাধারণভাবে tar ও bzip2 প্রোগ্রাম দিয়ে ব্যবহৃত হতে পারে। <a href=\"https://infozip.sourceforge.net\">Info-ZIP</a> আনজিপ প্রোগ্রাম ব্যবহার করে চাইলে ZIP আর্কাইভও খোলা যায়। .tar.bz2 আর্কাইভে সর্বোত্তম কম্প্রেশন ও দ্রুততম ডাউনলোড সময় পাওয়া যায়।"
 
 #: tools/templates/download.html:81
 msgid ""
 "Windows users can use the ZIP archives since those are customary on that\n"
 "platform. These are created on Unix using the Info-ZIP zip program."
-msgstr ""
+msgstr "উইন্ডোজ ব্যবহারকারীরা ZIP আর্কাইভ ব্যবহার করতে পারেন, কারণ এটি ঐ প্ল্যাটফর্মে প্রচলিত। এগুলো ইউনিক্স-এ Info-ZIP zip প্রোগ্রাম ব্যবহার করে তৈরি করা হয়েছে।"
 
 #: tools/templates/download.html:85
 msgid "Problems"
-msgstr ""
+msgstr "সমস্যা"
 
 #: tools/templates/download.html:87
 msgid ""
-"If you have comments or suggestions for the Python documentation, please "
-"send\n"
+"If you have comments or suggestions for the Python documentation, please send\n"
 "email to <a href=\"mailto:docs@python.org\">docs@python.org</a>."
-msgstr ""
+msgstr "আপনার যদি পাইথন ডকুমেন্টেশন নিয়ে কোনো মন্তব্য বা পরামর্শ থাকে, অনুগ্রহ করে <a href=\"mailto:docs@python.org\">docs@python.org</a> ঠিকানায় ইমেইল পাঠান।"
 
 #: tools/templates/dummy.html:6
 msgid "Availability"
-msgstr ""
+msgstr "প্রাপ্যতা"
 
 #: tools/templates/dummy.html:10
 msgid "Part of the"
@@ -212,11 +192,11 @@ msgstr ""
 
 #: tools/templates/dummy.html:17
 msgid "This is"
-msgstr ""
+msgstr "এটি"
 
 #: tools/templates/dummy.html:18
 msgid "Unstable API"
-msgstr ""
+msgstr "পরিবর্তনশীল এপিআই"
 
 #: tools/templates/dummy.html:19
 msgid ". It may change without warning in minor releases."
@@ -236,24 +216,23 @@ msgstr ""
 
 #: tools/templates/dummy.html:26
 msgid "CPython implementation detail:"
-msgstr ""
+msgstr "CPython বাস্তবায়ন বিশদ:"
 
 #: tools/templates/dummy.html:30
-msgid ""
-"Deprecated since version {deprecated}, will be removed in version {removed}"
-msgstr ""
+msgid "Deprecated since version {deprecated}, will be removed in version {removed}"
+msgstr "সংস্করণ {deprecated} থেকে অব্যবহৃত, সংস্করণ {removed}-এ অপসারণ করা হবে"
 
 #: tools/templates/dummy.html:31
 msgid "Deprecated since version {deprecated}, removed in version {removed}"
-msgstr ""
+msgstr "সংস্করণ {deprecated} থেকে অব্যবহৃত, সংস্করণ {removed}-এ অপসারণ করা হয়েছে"
 
 #: tools/templates/dummy.html:35
 msgid "in development"
-msgstr ""
+msgstr "উন্নয়নাধীন"
 
 #: tools/templates/dummy.html:36
 msgid "pre-release"
-msgstr ""
+msgstr "প্রি-রিলিজ"
 
 #: tools/templates/dummy.html:37
 msgid "stable"
@@ -277,73 +256,71 @@ msgstr ""
 
 #: tools/templates/indexcontent.html:26
 msgid "What's new in Python %(version)s?"
-msgstr ""
+msgstr "পাইথন %(version)s-এ নতুন কী আছ‌ে?"
 
 #: tools/templates/indexcontent.html:27
-msgid ""
-"Or <a href=\"%(whatsnew_index)s\">all \"What's new\" documents since Python "
-"2.0</a>"
-msgstr ""
+msgid "Or <a href=\"%(whatsnew_index)s\">all \"What's new\" documents since Python 2.0</a>"
+msgstr "অথবা <a href=\"%(whatsnew_index)s\">পাইথন 2.0 থেকে সকল \"নতুন কী আছে\" ডকুমেন্ট</a>"
 
 #: tools/templates/indexcontent.html:28
 msgid "Tutorial"
-msgstr ""
+msgstr "টিউটোরিয়াল"
 
 #: tools/templates/indexcontent.html:29
 msgid "Start here: a tour of Python's syntax and features"
-msgstr ""
+msgstr "এখান থেকে শুরু করুন: পাইথনের সিনট্যাক্স ও বৈশিষ্ট্যগুলির একটি ট্যুর"
 
 #: tools/templates/indexcontent.html:30
 msgid "Library reference"
-msgstr ""
+msgstr "লাইব্রেরি রেফারেন্স"
 
 #: tools/templates/indexcontent.html:31
 msgid "Standard library and builtins"
-msgstr ""
+msgstr "স্ট্যান্ডার্ড লাইব্রেরি ও বিল্ট-ইন"
 
 #: tools/templates/indexcontent.html:32
 msgid "Language reference"
-msgstr ""
+msgstr "ভাষা রেফারেন্স"
 
 #: tools/templates/indexcontent.html:33
 msgid "Syntax and language elements"
-msgstr ""
+msgstr "সিনট্যাক্স ও ভাষার উপাদান"
 
 #: tools/templates/indexcontent.html:34
 msgid "Python setup and usage"
-msgstr ""
+msgstr "পাইথন সেটআপ ও ব্যবহার"
 
 #: tools/templates/indexcontent.html:35
 msgid "How to install, configure, and use Python"
-msgstr ""
+msgstr "পাইথন কীভাবে ইনস্টল, কনফিগার ও ব্যবহার করবেন"
 
 #: tools/templates/indexcontent.html:36
 msgid "Python HOWTOs"
-msgstr ""
+msgstr "পাইথন HOWTOs"
 
 #: tools/templates/indexcontent.html:37
 msgid "In-depth topic manuals"
-msgstr ""
+msgstr "গভীরতর বিষয় নির্দেশিকা"
 
 #: tools/templates/indexcontent.html:39
 msgid "Installing Python modules"
-msgstr ""
+msgstr "পাইথন মডিউল ইনস্টল করা"
 
 #: tools/templates/indexcontent.html:40
 msgid "Third-party modules and PyPI.org"
-msgstr ""
+msgstr "তৃতীয় পক্ষের মডিউল ও PyPI.org"
 
 #: tools/templates/indexcontent.html:41
 msgid "Distributing Python modules"
-msgstr ""
+msgstr "পাইথন মডিউল বিতরণ"
 
 #: tools/templates/indexcontent.html:42
 msgid "Publishing modules for use by other people"
-msgstr ""
+msgstr "অন্যদের ব্যবহারের জন্য মডিউল প্রকাশ"
 
 #: tools/templates/indexcontent.html:43
 msgid "Extending and embedding"
-msgstr ""
+msgstr "এক্সটেনশন ও এমবেডিং"
 
 #: tools/templates/indexcontent.html:44
 msgid "For C/C++ programmers"
@@ -379,124 +356,127 @@ msgstr ""
 
 #: tools/templates/indexcontent.html:57
 msgid "Global module index"
-msgstr ""
+msgstr "গ্লোবাল মডিউল সূচি"
 
 #: tools/templates/indexcontent.html:58
 msgid "All modules and libraries"
-msgstr ""
+msgstr "সমস্ত মডিউল ও লাইব্রেরি"
 
 #: tools/templates/indexcontent.html:59
 msgid "General index"
-msgstr ""
+msgstr "সাধারণ সূচি"
 
 #: tools/templates/indexcontent.html:60
 msgid "All functions, classes, and terms"
-msgstr ""
+msgstr "সমস্ত ফাংশন, ক্লাস এবং টার্ম"
 
 #: tools/templates/indexcontent.html:61
 msgid "Glossary"
-msgstr ""
+msgstr "শব্দকোষ"
 
 #: tools/templates/indexcontent.html:62
 msgid "Terms explained"
-msgstr ""
+msgstr "টার্মের ব্যাখ্যা"
 
 #: tools/templates/indexcontent.html:64
 msgid "Search page"
-msgstr ""
+msgstr "অনুসন্ধান পৃষ্ঠা"
 
 #: tools/templates/indexcontent.html:65
 msgid "Search this documentation"
-msgstr ""
+msgstr "এই ডকুমেন্টেশন অনুসন্ধান করুন"
 
 #: tools/templates/indexcontent.html:66
 msgid "Complete table of contents"
-msgstr ""
+msgstr "সম্পূর্ণ সূচিপত্র"
 
 #: tools/templates/indexcontent.html:67
 msgid "Lists all sections and subsections"
-msgstr ""
+msgstr "সমস্ত বিভাগ ও উপবিভাগের তালিকা"
 
 #: tools/templates/indexcontent.html:71
 msgid "Project information:"
-msgstr ""
+msgstr "প্রকল্প সংক্রান্ত তথ্য:"
 
 #: tools/templates/indexcontent.html:74
 msgid "Reporting issues"
-msgstr ""
+msgstr "সমস্যা রিপোর্ট করুন"
 
 #: tools/templates/indexcontent.html:75
 msgid "Contributing to docs"
-msgstr ""
+msgstr "ডকুমেন্টেশনে অবদান রাখুন"
 
 #: tools/templates/indexcontent.html:76
 msgid "Download the documentation"
-msgstr ""
+msgstr "ডকুমেন্টেশন ডাউনলোড করুন"
 
 #: tools/templates/indexcontent.html:78
 msgid "History and license of Python"
-msgstr ""
+msgstr "পাইথনের ইতিহাস ও লাইসেন্স"
 
 #: tools/templates/indexcontent.html:79
 msgid "Copyright"
-msgstr ""
+msgstr "কপিরাইট"
 
 #: tools/templates/indexcontent.html:80
 msgid "About the documentation"
-msgstr ""
+msgstr "ডকুমেন্টেশন সম্পর্কে"
 
 #: tools/templates/indexsidebar.html:2
 msgid "Download these documents"
-msgstr ""
+msgstr "এই ডকুমেন্টগুলো ডাউনলোড করুন"
 
 #: tools/templates/indexsidebar.html:3
 msgid "Docs by version"
-msgstr ""
+msgstr "সংস্করণ অনুযায়ী ডকুমেন্টেশন"
 
 #: tools/templates/indexsidebar.html:7
 msgid "All versions"
-msgstr ""
+msgstr "সব সংস্করণ"
 
 #: tools/templates/indexsidebar.html:9
 msgid "Other resources"
-msgstr ""
+msgstr "অন্যান্য রিসোর্স"
 
 #: tools/templates/indexsidebar.html:12
 msgid "PEP index"
-msgstr ""
+msgstr "PEP সূচি"
 
 #: tools/templates/indexsidebar.html:13
 msgid "Beginner's guide"
-msgstr ""
+msgstr "শুরুর গাইড"
 
 #: tools/templates/indexsidebar.html:14
 msgid "Book list"
-msgstr ""
+msgstr "বইয়ের তালিকা"
 
 #: tools/templates/indexsidebar.html:15
 msgid "Audio/visual talks"
-msgstr ""
+msgstr "অডিও/ভিজ্যুয়াল আলোচনা"
 
 #: tools/templates/indexsidebar.html:16
 msgid "Python developer’s guide"
-msgstr ""
+msgstr "পাইথন ডেভেলপার গাইড"
 
 #: tools/templates/layout.html:6
 msgid ""
 "This document is for an old version of Python that is no longer supported.\n"
 "    You should upgrade, and read the"
 msgstr ""
+"এই ডকুমেন্টটি পাইথনের একটি পুরনো সংস্করণের জন্য, যা আর সমর্থিত নয়।\n"
+"আপনাকে আপগ্রেড করা উচিত এবং পড়ুন"
 
 #: tools/templates/layout.html:8
 msgid "Python documentation for the current stable release"
-msgstr ""
+msgstr "বর্তমান স্থিতিশীল সংস্করণের পাইথন ডকুমেন্টেশন"
 
 #: tools/templates/layout.html:14
 msgid ""
-"This is a deploy preview created from a <a href=\"%(repository_url)s/pull/%"
-"(pr_id)s\">pull request</a>.\n"
+"This is a deploy preview created from a <a href=\"%(repository_url)s/pull/%(pr_id)s\">pull request</a>.\n"
 "  For authoritative documentation, see"
 msgstr ""
+"এটি একটি ডিপ্লয় প্রিভিউ, যা <a href=\"%(repository_url)s/pull/%(pr_id)s\">পুল রিকোয়েস্ট</a> থেকে তৈরি হয়েছে।\n"
+"  নির্ভরযোগ্য ডকুমেন্টেশনের জন্য দেখুন"
 
 #: tools/templates/layout.html:16
 msgid "the current stable release"
