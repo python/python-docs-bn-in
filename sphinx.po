@@ -164,31 +164,31 @@ msgstr "প্রাপ্যতা"
 
 #: tools/templates/dummy.html:10
 msgid "Part of the"
-msgstr ""
+msgstr "এর অংশ"
 
 #: tools/templates/dummy.html:11
 msgid "Limited API"
-msgstr ""
+msgstr "সীমিত API"
 
 #: tools/templates/dummy.html:12
 msgid "Stable ABI"
-msgstr ""
+msgstr "স্থিতিশীল ABI"
 
 #: tools/templates/dummy.html:13
 msgid "(as an opaque struct)"
-msgstr ""
+msgstr "(একটি অস্বচ্ছ স্ট্রাক্ট হিসেবে)"
 
 #: tools/templates/dummy.html:14
 msgid "(including all members)"
-msgstr ""
+msgstr "(সকল সদস্য সহ)"
 
 #: tools/templates/dummy.html:15
 msgid "since version %s"
-msgstr ""
+msgstr "সংস্করণ %s থেকে"
 
 #: tools/templates/dummy.html:16
 msgid "(Only some members are part of the stable ABI.)"
-msgstr ""
+msgstr "(শুধুমাত্র কিছু সদস্য স্থিতিশীল ABI এর অংশ।)"
 
 #: tools/templates/dummy.html:17
 msgid "This is"
@@ -200,19 +200,19 @@ msgstr "পরিবর্তনশীল এপিআই"
 
 #: tools/templates/dummy.html:19
 msgid ". It may change without warning in minor releases."
-msgstr ""
+msgstr "। এটি ছোট রিলিজে সতর্কতা ছাড়াই পরিবর্তিত হতে পারে।"
 
 #: tools/templates/dummy.html:20
 msgid "Return value: Always NULL."
-msgstr ""
+msgstr "রিটার্ন মান: সবসময় NULL।"
 
 #: tools/templates/dummy.html:21
 msgid "Return value: New reference."
-msgstr ""
+msgstr "রিটার্ন মান: নতুন রেফারেন্স।"
 
 #: tools/templates/dummy.html:22
 msgid "Return value: Borrowed reference."
-msgstr ""
+msgstr "রিটার্ন মান: ধার করা রেফারেন্স।"
 
 #: tools/templates/dummy.html:26
 msgid "CPython implementation detail:"
@@ -240,11 +240,11 @@ msgstr "স্থিতিশীল"
 
 #: tools/templates/dummy.html:38
 msgid "security-fixes"
-msgstr ""
+msgstr "নিরাপত্তা-সংশোধন"
 
 #: tools/templates/dummy.html:39
 msgid "EOL"
-msgstr ""
+msgstr "EOL"
 
 #: tools/templates/indexcontent.html:21
 msgid "Welcome! This is the official documentation for Python %(release)s."
@@ -252,7 +252,7 @@ msgstr "স্বাগতম! এটি পাইথন %(release)s এর অ�
 
 #: tools/templates/indexcontent.html:23
 msgid "Documentation sections:"
-msgstr ""
+msgstr "ডকুমেন্টেশন বিভাগসমূহ:"
 
 #: tools/templates/indexcontent.html:26
 msgid "What's new in Python %(version)s?"
@@ -324,35 +324,35 @@ msgstr "এক্সটেনশন ও এমবেডিং"
 
 #: tools/templates/indexcontent.html:44
 msgid "For C/C++ programmers"
-msgstr ""
+msgstr "C/C++ প্রোগ্রামারদের জন্য"
 
 #: tools/templates/indexcontent.html:45
 msgid "Python's C API"
-msgstr ""
+msgstr "Python এর C API"
 
 #: tools/templates/indexcontent.html:46
 msgid "C API reference"
-msgstr ""
+msgstr "C API রেফারেন্স"
 
 #: tools/templates/indexcontent.html:47
 msgid "FAQs"
-msgstr ""
+msgstr "প্রশ্নোত্তর"
 
 #: tools/templates/indexcontent.html:48
 msgid "Frequently asked questions (with answers!)"
-msgstr ""
+msgstr "প্রায়শই জিজ্ঞাসিত প্রশ্ন (উত্তর সহ!)"
 
 #: tools/templates/indexcontent.html:49
 msgid "Deprecations"
-msgstr ""
+msgstr "অবচিত বৈশিষ্ট্য"
 
 #: tools/templates/indexcontent.html:50
 msgid "Deprecated functionality"
-msgstr ""
+msgstr "অবচিত কার্যকারিতা"
 
 #: tools/templates/indexcontent.html:54
 msgid "Indices, glossary, and search:"
-msgstr ""
+msgstr "সূচি, শব্দকোষ এবং অনুসন্ধান:"
 
 #: tools/templates/indexcontent.html:57
 msgid "Global module index"
@@ -480,4 +480,4 @@ msgstr ""
 
 #: tools/templates/layout.html:16
 msgid "the current stable release"
-msgstr ""
+msgstr "বর্তমান স্থিতিশীল সংস্করণ"

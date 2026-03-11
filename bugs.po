@@ -3,22 +3,22 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-22 14:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2026-03-12 00:00+0000\n"
+"Last-Translator: Bengali Translation Team\n"
+"Language-Team: Bengali <bn@li.org>\n"
+"Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: bugs.rst:5
 msgid "Dealing with Bugs"
-msgstr ""
+msgstr "বাগ সমাধান"
 
 #: bugs.rst:7
 msgid ""
@@ -26,6 +26,9 @@ msgid ""
 "for stability.  In order to maintain this reputation, the developers would "
 "like to know of any deficiencies you find in Python."
 msgstr ""
+"Python একটি পরিপক্ব প্রোগ্রামিং ভাষা যা স্থিতিশীলতার জন্য সুনাম অর্জন করেছে। "
+"এই সুনাম বজায় রাখার জন্য, ডেভেলপাররা Python এ আপনার খুঁজে পাওয়া যেকোনো "
+"ত্রুটি সম্পর্কে জানতে চান।"
 
 #: bugs.rst:11
 msgid ""
@@ -33,10 +36,13 @@ msgid ""
 "Python as it streamlines the process and involves less people. Learn how "
 "to :ref:`contribute <contributing-to-python>`."
 msgstr ""
+"কখনও কখনও নিজে বাগ ঠিক করা এবং Python এ প্যাচ অবদান রাখা দ্রুততর হতে পারে "
+"কারণ এটি প্রক্রিয়াটিকে সহজ করে এবং কম মানুষ জড়িত থাকে। কীভাবে "
+":ref:`অবদান রাখবেন <contributing-to-python>` তা শিখুন।"
 
 #: bugs.rst:16
 msgid "Documentation bugs"
-msgstr ""
+msgstr "ডকুমেন্টেশন বাগ"
 
 #: bugs.rst:18
 msgid ""
@@ -45,12 +51,18 @@ msgid ""
 "the-tracker>`.  If you have a suggestion on how to fix it, include that as "
 "well."
 msgstr ""
+"আপনি যদি এই ডকুমেন্টেশনে কোনো বাগ খুঁজে পান বা কোনো উন্নতির প্রস্তাব করতে চান, "
+"তাহলে অনুগ্রহ করে :ref:`ইস্যু ট্র্যাকারে <using-the-tracker>` একটি বাগ রিপোর্ট "
+"জমা দিন। আপনার যদি এটি কীভাবে ঠিক করবেন সে সম্পর্কে কোনো পরামর্শ থাকে, তাও "
+"অন্তর্ভুক্ত করুন।"
 
 #: bugs.rst:22
 msgid ""
 "You can also open a discussion item on our `Documentation Discourse forum "
 "<https://discuss.python.org/c/documentation/26>`_."
 msgstr ""
+"আপনি আমাদের `Documentation Discourse ফোরামে "
+"<https://discuss.python.org/c/documentation/26>`_ একটি আলোচনা আইটেমও খুলতে পারেন।"
 
 #: bugs.rst:25
 msgid ""
@@ -58,53 +70,65 @@ msgid ""
 "documentation, please submit a bug report on the `python-doc-theme issue "
 "tracker <https://github.com/python/python-docs-theme>`_."
 msgstr ""
+"আপনি যদি ডকুমেন্টেশনের থিমে (HTML / CSS / JavaScript) কোনো বাগ খুঁজে পান, "
+"তাহলে অনুগ্রহ করে `python-doc-theme ইস্যু ট্র্যাকারে "
+"<https://github.com/python/python-docs-theme>`_ একটি বাগ রিপোর্ট জমা দিন।"
 
 #: bugs.rst:31
 msgid "`Documentation bugs`_"
-msgstr ""
+msgstr "`Documentation bugs`_"
 
 #: bugs.rst:32
 msgid ""
 "A list of documentation bugs that have been submitted to the Python issue "
 "tracker."
 msgstr ""
+"Python ইস্যু ট্র্যাকারে জমা দেওয়া ডকুমেন্টেশন বাগের একটি তালিকা।"
 
 #: bugs.rst:34
 msgid "`Issue Tracking <https://devguide.python.org/tracker/>`_"
-msgstr ""
+msgstr "`Issue Tracking <https://devguide.python.org/tracker/>`_"
 
 #: bugs.rst:35
 msgid ""
 "Overview of the process involved in reporting an improvement on the tracker."
 msgstr ""
+"ট্র্যাকারে একটি উন্নতি রিপোর্ট করার সাথে জড়িত প্রক্রিয়ার সংক্ষিপ্ত বিবরণ।"
 
 #: bugs.rst:37
 msgid ""
 "`Helping with Documentation <https://devguide.python.org/docquality/#helping-"
 "with-documentation>`_"
 msgstr ""
+"`Helping with Documentation <https://devguide.python.org/docquality/#helping-"
+"with-documentation>`_"
 
 #: bugs.rst:38
 msgid ""
 "Comprehensive guide for individuals that are interested in contributing to "
 "Python documentation."
 msgstr ""
+"Python ডকুমেন্টেশনে অবদান রাখতে আগ্রহী ব্যক্তিদের জন্য বিস্তৃত গাইড।"
 
 #: bugs.rst:40
 msgid ""
 "`Documentation Translations <https://devguide.python.org/documentation/"
 "translating/>`_"
 msgstr ""
+"`Documentation Translations <https://devguide.python.org/documentation/"
+"translating/>`_"
 
 #: bugs.rst:41
 msgid ""
 "A list of GitHub pages for documentation translation and their primary "
 "contacts."
 msgstr ""
+"ডকুমেন্টেশন অনুবাদের জন্য GitHub পৃষ্ঠাগুলির একটি তালিকা এবং তাদের প্রাথমিক "
+"যোগাযোগ।"
 
 #: bugs.rst:47
 msgid "Using the Python issue tracker"
-msgstr ""
+msgstr "Python ইস্যু ট্র্যাকার ব্যবহার করা"
 
 #: bugs.rst:49
 msgid ""
@@ -113,6 +137,10 @@ msgid ""
 "tracker offers a web form which allows pertinent information to be entered "
 "and submitted to the developers."
 msgstr ""
+"Python এর জন্য ইস্যু রিপোর্ট GitHub ইস্যু ট্র্যাকারের মাধ্যমে জমা দিতে হবে "
+"(https://github.com/python/cpython/issues)। GitHub ইস্যু ট্র্যাকার একটি ওয়েব "
+"ফর্ম প্রদান করে যা প্রাসঙ্গিক তথ্য প্রবেশ করতে এবং ডেভেলপারদের কাছে জমা দিতে "
+"সাহায্য করে।"
 
 #: bugs.rst:54
 msgid ""
@@ -124,6 +152,12 @@ msgid ""
 "can!). To do this, search the tracker using the search box at the top of the "
 "page."
 msgstr ""
+"একটি রিপোর্ট দাখিল করার প্রথম ধাপ হল সমস্যাটি ইতিমধ্যে রিপোর্ট করা হয়েছে কিনা "
+"তা নির্ধারণ করা। এটি করার সুবিধা হল, ডেভেলপারদের সময় বাঁচানোর পাশাপাশি, আপনি "
+"জানতে পারবেন এটি ঠিক করার জন্য কী করা হয়েছে; হতে পারে সমস্যাটি পরবর্তী রিলিজের "
+"জন্য ইতিমধ্যে ঠিক করা হয়েছে, বা অতিরিক্ত তথ্যের প্রয়োজন (সেক্ষেত্রে আপনি যদি "
+"পারেন তা প্রদান করতে স্বাগত!)। এটি করতে, পৃষ্ঠার শীর্ষে সার্চ বক্স ব্যবহার করে "
+"ট্র্যাকার অনুসন্ধান করুন।"
 
 #: bugs.rst:61
 msgid ""
@@ -132,22 +166,30 @@ msgid ""
 "using the \"Sign up\" link. It is not possible to submit a bug report "
 "anonymously."
 msgstr ""
+"আপনি যে সমস্যাটি রিপোর্ট করছেন তা যদি তালিকায় না থাকে, তাহলে GitHub এ লগ ইন "
+"করুন। আপনার যদি ইতিমধ্যে একটি GitHub অ্যাকাউন্ট না থাকে, তাহলে \"Sign up\" "
+"লিঙ্ক ব্যবহার করে একটি নতুন অ্যাকাউন্ট তৈরি করুন। বেনামে বাগ রিপোর্ট জমা দেওয়া "
+"সম্ভব নয়।"
 
 #: bugs.rst:66
 msgid ""
 "Being now logged in, you can submit an issue. Click on the \"New issue\" "
 "button in the top bar to report a new issue."
 msgstr ""
+"এখন লগ ইন করার পর, আপনি একটি ইস্যু জমা দিতে পারেন। একটি নতুন ইস্যু রিপোর্ট "
+"করতে শীর্ষ বারে \"New issue\" বাটনে ক্লিক করুন।"
 
 #: bugs.rst:69
 msgid "The submission form has two fields, \"Title\" and \"Comment\"."
-msgstr ""
+msgstr "জমা দেওয়ার ফর্মে দুটি ফিল্ড রয়েছে, \"Title\" এবং \"Comment\"।"
 
 #: bugs.rst:71
 msgid ""
 "For the \"Title\" field, enter a *very* short description of the problem; "
 "fewer than ten words is good."
 msgstr ""
+"\"Title\" ফিল্ডের জন্য, সমস্যার একটি *খুব* সংক্ষিপ্ত বিবরণ লিখুন; দশটি শব্দের "
+"কম ভালো।"
 
 #: bugs.rst:74
 msgid ""
@@ -156,6 +198,10 @@ msgid ""
 "extension modules were involved, and what hardware and software platform you "
 "were using (including version information as appropriate)."
 msgstr ""
+"\"Comment\" ফিল্ডে, সমস্যাটি বিস্তারিতভাবে বর্ণনা করুন, যার মধ্যে আপনি কী ঘটবে "
+"বলে আশা করেছিলেন এবং কী ঘটেছিল তা অন্তর্ভুক্ত করুন। কোনো এক্সটেনশন মডিউল জড়িত "
+"ছিল কিনা এবং আপনি কোন হার্ডওয়্যার এবং সফটওয়্যার প্ল্যাটফর্ম ব্যবহার করছিলেন "
+"(উপযুক্ত হলে সংস্করণ তথ্য সহ) তা অন্তর্ভুক্ত করতে ভুলবেন না।"
 
 #: bugs.rst:79
 msgid ""
@@ -163,34 +209,45 @@ msgid ""
 "needs to be done to correct the problem. You will receive an update each "
 "time an action is taken on the issue."
 msgstr ""
+"প্রতিটি ইস্যু রিপোর্ট একজন ডেভেলপার দ্বারা পর্যালোচনা করা হবে যিনি নির্ধারণ "
+"করবেন সমস্যাটি সংশোধন করতে কী করা প্রয়োজন। ইস্যুতে প্রতিবার কোনো পদক্ষেপ নেওয়া "
+"হলে আপনি একটি আপডেট পাবেন।"
 
 #: bugs.rst:86
 msgid ""
 "`How to Report Bugs Effectively <https://www.chiark.greenend.org.uk/"
 "~sgtatham/bugs.html>`_"
 msgstr ""
+"`How to Report Bugs Effectively <https://www.chiark.greenend.org.uk/"
+"~sgtatham/bugs.html>`_"
 
 #: bugs.rst:87
 msgid ""
 "Article which goes into some detail about how to create a useful bug report. "
 "This describes what kind of information is useful and why it is useful."
 msgstr ""
+"একটি প্রবন্ধ যা কীভাবে একটি উপযোগী বাগ রিপোর্ট তৈরি করতে হয় সে সম্পর্কে বিস্তারিত "
+"আলোচনা করে। এটি বর্ণনা করে কোন ধরনের তথ্য উপযোগী এবং কেন এটি উপযোগী।"
 
 #: bugs.rst:90
 msgid ""
 "`Bug Writing Guidelines <https://bugzilla.mozilla.org/page.cgi?id=bug-"
 "writing.html>`_"
 msgstr ""
+"`Bug Writing Guidelines <https://bugzilla.mozilla.org/page.cgi?id=bug-"
+"writing.html>`_"
 
 #: bugs.rst:91
 msgid ""
 "Information about writing a good bug report.  Some of this is specific to "
 "the Mozilla project, but describes general good practices."
 msgstr ""
+"একটি ভালো বাগ রিপোর্ট লেখার বিষয়ে তথ্য। এর কিছু অংশ Mozilla প্রকল্পের জন্য "
+"নির্দিষ্ট, তবে সাধারণ ভালো অনুশীলন বর্ণনা করে।"
 
 #: bugs.rst:97
 msgid "Getting started contributing to Python yourself"
-msgstr ""
+msgstr "নিজে Python এ অবদান রাখা শুরু করা"
 
 #: bugs.rst:99
 msgid ""
@@ -200,3 +257,8 @@ msgid ""
 "the `core-mentorship mailing list`_ is a friendly place to get answers to "
 "any and all questions pertaining to the process of fixing issues in Python."
 msgstr ""
+"আপনার খুঁজে পাওয়া বাগ রিপোর্ট করার পাশাপাশি, সেগুলি ঠিক করার জন্য প্যাচ জমা "
+"দিতেও আপনাকে স্বাগত জানানো হয়। Python প্যাচিং শুরু করার বিষয়ে আরও তথ্য আপনি "
+"`Python Developer's Guide`_ এ পেতে পারেন। আপনার যদি প্রশ্ন থাকে, তাহলে "
+"`core-mentorship mailing list`_ হল Python এ সমস্যা সমাধানের প্রক্রিয়া সম্পর্কিত "
+"যেকোনো এবং সমস্ত প্রশ্নের উত্তর পাওয়ার জন্য একটি বন্ধুত্বপূর্ণ জায়গা।"
